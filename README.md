@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jefferson! </h1>
 
-<h2>👨‍💻 IT & Networking Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>Basic Network Setup</b>
   - [Building a Newtwork for a Small Business](https://github.com/joshmadakor1/Algorithms-Practice)
